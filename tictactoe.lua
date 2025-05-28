@@ -16,7 +16,7 @@ local spots = {
     ENEMY = 2
 }
 
-local matchCount = 100000
+local matchCount = 1000
 
 local function reverseBoard(board)
     local out = {{}, {}, {}}
